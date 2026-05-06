@@ -24,7 +24,9 @@ The CV Virtual Staging project is an automated, high-fidelity pipeline designed 
 ## 🏗️ Midterm Project: Virtual Staging Foundations
 **Web-Based AI Staging Platform**
 
-This project served as the initial foundation for RE.Ai, establishing the core infrastructure for instant empty-room-to-furnished-image conversion.
+Github: [Folder](https://github.com/BrandonLee-98/Brandon-Matias-ITAI1378/tree/main/Midterm%20Project)
+
+This project served as the initial foundation for the final CV Virtual Staging Project, establishing the core infrastructure for instant empty-room-to-furnished-image conversion.
 
 * **Focus:** Implementation of style-specific prompts (Modern, Contemporary, Rustic, Minimalist, Traditional) and architectural consistency rules.
 * **Architecture:** Developed using a custom-curated library of 30+ style-specific prompts.
