@@ -9,7 +9,7 @@ This repository serves as a comprehensive portfolio for the **Applied AI and Rob
 ## 🚀 Featured Project: CV Virtual Staging (Capstone)
 **Intelligent Virtual Staging through Dual-Pass Computer Vision and Generative AI Synthesis**
 
-RE.Ai Solution is an automated, high-fidelity pipeline designed to bridge the "Vacancy Gap" in real estate. It preserves architectural integrity while synthesizing professional furniture to help buyers visualize spatial layouts.
+The CV Virtual Staging project is an automated, high-fidelity pipeline designed to bridge the "Vacancy Gap" in real estate. It preserves architectural integrity while synthesizing professional furniture to help buyers visualize spatial layouts.
 
 * **GitHub:** [Final Project Repository](https://github.com/BrandonLee-98/CV-Project-Virtual-Staging)
 * **Key Achievement:** Achieved **92.5% classification accuracy** and a **9.6/10 structural integrity score**.
