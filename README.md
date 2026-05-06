@@ -6,7 +6,7 @@ This repository serves as a comprehensive portfolio for the **Applied AI and Rob
 
 ---
 
-## 🚀 Featured Project: RE.Ai Solution (Capstone)
+## 🚀 Featured Project: CV Virtual Staging (Capstone)
 **Intelligent Virtual Staging through Dual-Pass Computer Vision and Generative AI Synthesis**
 
 RE.Ai Solution is an automated, high-fidelity pipeline designed to bridge the "Vacancy Gap" in real estate. It preserves architectural integrity while synthesizing professional furniture to help buyers visualize spatial layouts.
@@ -26,7 +26,6 @@ RE.Ai Solution is an automated, high-fidelity pipeline designed to bridge the "V
 
 This project served as the initial foundation for RE.Ai, establishing the core infrastructure for instant empty-room-to-furnished-image conversion.
 
-* **GitHub:** Midterm
 * **Focus:** Implementation of style-specific prompts (Modern, Contemporary, Rustic, Minimalist, Traditional) and architectural consistency rules.
 * **Architecture:** Developed using a custom-curated library of 30+ style-specific prompts.
 
