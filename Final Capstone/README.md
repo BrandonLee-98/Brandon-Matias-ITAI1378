@@ -1,4 +1,5 @@
 # CV Virtual Staging Project: Intelligent Virtual Staging Pipeline
+**GitHub:** [Final Project Repository](https://github.com/BrandonLee-98/CV-Project-Virtual-Staging)
 
 **Institution:** Houston City College | AI and Robotics Capstone  
 **Developer:** Brandon Matias  
